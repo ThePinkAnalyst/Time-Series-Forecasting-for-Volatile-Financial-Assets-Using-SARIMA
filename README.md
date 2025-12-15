@@ -1,4 +1,4 @@
-# SARIMA Time Series Forecasting for Volatile Financial Assets Using SARIMA
+# Time Series Forecasting for Volatile Financial Assets Using SARIMA
 
 ## Executive Summary
 
